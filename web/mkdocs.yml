@@ -1,3 +1,6 @@
 site_name: 8oz Robotics
 nav:
-  - Home: index.md
+  - 8oz Varsity Vex Robotics: index.md
+  - Game Mechanism: gamemech.md
+
+theme: readthedocs

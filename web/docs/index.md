@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+## Welcome to 8oz Engineering Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### About us  <!-- DON'T FILL PRIVATE DETAILS ABOUT TEAM UNTIL REPOSITORY GOES PRIVATE -->
+We're a VEX team located in x Texas competing in Vex robotics for y. Our documentation and engineering process will be explained here. 
 
-## Commands
+### Team Members 
+* **name1** (Team Leader)
+* name2
+* name3
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<!-- #### 
+The package can be found on pypi
+```bash
+pip install hello-pkg
+``` -->
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<!-- ```python # Code segment test
+>>> import hello-pkg
+``` -->
