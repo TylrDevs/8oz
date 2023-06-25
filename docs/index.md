@@ -1,20 +1,9 @@
-<<<<<<< Updated upstream
-![logo](/img/logo3.png)  
-=======
 ![logo](https://cdn.discordapp.com/attachments/1122312039918997614/1122323797467480155/logo3.png)  
->>>>>>> Stashed changes
 ## Welcome to 8oz Engineering Documentation
 
 ### About us  <!-- DON'T FILL PRIVATE DETAILS ABOUT TEAM UNTIL REPOSITORY GOES PRIVATE -->
 We're a VEX team located in Texas region 4 competing in Vex robotics for RECHS. Our documentation and engineering process will be explained here. 
 
-<<<<<<< Updated upstream
-### Team Members 
-* **Ty** (Team Leader)
-* Daniel
-* Valentin
-* Asher
-=======
 #### Team Members 
 This list of *Talented individuals* are who make 8oz Robotics well, 8oz Robotics.  
  
@@ -24,7 +13,6 @@ This list of *Talented individuals* are who make 8oz Robotics well, 8oz Robotics
 * [25'] Daniel - Designer
 * [25'] Asher - Programmer
 * TBD
->>>>>>> Stashed changes
 
 <!-- #### 
 The package can be found on pypi
