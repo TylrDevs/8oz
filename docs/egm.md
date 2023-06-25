@@ -1,5 +1,5 @@
 ![logo](https://cdn.discordapp.com/attachments/1122312039918997614/1122323797467480155/logo3.png)  
-# Welcome to 8oz Engineering Documentation
+## Welcome to 8oz Engineering Documentation
 
 ### About us  <!-- DON'T FILL PRIVATE DETAILS ABOUT TEAM UNTIL REPOSITORY GOES PRIVATE -->
 We're a VEX team located in Texas region 4 competing in Vex robotics for RECHS. Our documentation and engineering process will be explained here. 

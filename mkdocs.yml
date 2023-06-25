@@ -2,4 +2,9 @@ site_name: 8oz Robotics
 nav:
   - 8oz Varsity Vex Robotics: index.md
   - Drivetrain & Chassis: DTnC.md
+  - Game Mechanism: gamemech.md
+  - Controller: controller.md
+  - End Game Mechanism: egm.md
+  - Game Strategy: strategy.md
+  - Engineering Process: ep.md
 theme: readthedocs

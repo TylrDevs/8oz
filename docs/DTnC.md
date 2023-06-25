@@ -23,9 +23,7 @@ is it worth the R&D since we don’t have pneumatics? Is it even possible/plausi
 ### Aesthetics
 (SPRAYPAINT AND STICKERS)
  
-<!-- ### Programming
+### Programming
 Calculating Spline movements for pathfinding and    using a control loop to turn while driving. 
 [Spline Wikipedia](https://en.wikipedia.org/wiki/Spline_(mathematics))
-![spline](https://cdn.discordapp.com/attachments/1122312039918997614/1122312625607413901/1200px-Parametic_Cubic_Spline.png) -->
-<!-- [Linear Interpolation](https://en.wikipedia.org/wiki/Interpolation)
-![lerp](https://cdn.discordapp.com/attachments/1122312039918997614/1122312932315889826/230px-Interpolation_example_linear.png) -->
+![spline](https://cdn.discordapp.com/attachments/1122312039918997614/1122312625607413901/1200px-Parametic_Cubic_Spline.png)
