@@ -1,10 +1,5 @@
 site_name: 8oz Robotics
 nav:
   - 8oz Varsity Vex Robotics: index.md
-<<<<<<< Updated upstream
-  - Game Mechanism: gamemech.md
-=======
   - Drivetrain & Chassis: DTnC.md
->>>>>>> Stashed changes
-
 theme: readthedocs
