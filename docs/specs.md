@@ -13,5 +13,5 @@
 | 5.5W | Game Mech Motor 2 | NIL |
 | 5.5W | Game Mech Motor 3 | NIL |
 | 5.5W | Game Mech Motor 4 | NIL |
-**Total**: 88W ( *Maximum Vex Wattage Allocation* )
+**Total**: 10M's:88W ( *Maximum Vex Wattage Allocation* )
  
