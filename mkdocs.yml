@@ -1,6 +1,7 @@
 site_name: 8oz Robotics
 nav:
   - 8oz Varsity Vex Robotics: index.md
+  - Specifications: specs.md
   - Drivetrain & Chassis: DTnC.md
   - Game Mechanism: gamemech.md
   - Controller: controller.md
