@@ -12,7 +12,6 @@ This list of *Talented individuals* are who make 8oz Robotics well, 8oz Robotics
 * [24'] Valentin - Manufacturing & Design
 * [25'] Daniel - Designer
 * [25'] Asher - Programmer
-* TBD
 
 <!-- #### 
 The package can be found on pypi
