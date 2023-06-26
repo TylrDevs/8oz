@@ -1,25 +1,6 @@
-![logo](https://cdn.discordapp.com/attachments/1122312039918997614/1122323797467480155/logo3.png)  
-## Welcome to 8oz Engineering Documentation
-
-### About us  <!-- DON'T FILL PRIVATE DETAILS ABOUT TEAM UNTIL REPOSITORY GOES PRIVATE -->
-We're a VEX team located in Texas region 4 competing in Vex robotics for RECHS. Our documentation and engineering process will be explained here. 
-
-#### Team Members 
-This list of *Talented individuals* are who make 8oz Robotics well, 8oz Robotics.  
+# Game Strategy
+## Pre-Season Strategy Ideas
+Our Pre-Season Strategies are highly subject to change as we have not competed at all.
+* Scorer and Deliverer
+We will have the Bot that is in the zone with our Goal be the Scorer. Their main purpose will be to put the Triballs on their side into the Net. The Bot on the other zone will be the Deliverer. Their main purpose will be to deliver Triballs to the other side.
  
-* **Ms. Saenz** ( Coach )
-* [24'] **Ty** ( Team Leader ) - Programmer, Documentation, Manufacturing & Design
-* [24'] Valentin - Manufacturing & Design
-* [25'] Daniel - Designer
-* [25'] Asher - Programmer
-* TBD
-
-<!-- #### 
-The package can be found on pypi
-```bash
-pip install hello-pkg
-``` -->
-
-<!-- ```python # Code segment test
->>> import hello-pkg
-``` -->
